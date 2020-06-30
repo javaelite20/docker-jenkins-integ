@@ -8,7 +8,7 @@
     <artifactId>jenkins-docker-test</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
-    <finaname>dockerjenkinstest</finaname>
+    <finalName>dockerjenkinstest</finalName>
     </build>
 
 </project>
